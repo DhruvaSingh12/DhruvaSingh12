@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **singhdhruva45@gmail.com**
 
-- 📰 My portfolio here(https://www.portflix.io/dhruvasingh12).
+- 📰 My portfolio [here](https://www.portflix.io/dhruvasingh12).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
