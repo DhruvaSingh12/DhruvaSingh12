@@ -39,8 +39,26 @@
 ### 🛠️ Languages & Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,cpp,java,c,postgresql,mongodb,linux,vercel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
 </p>
+
 
 ---
 
@@ -57,14 +75,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasingh12&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 🎶 Music & Hobbies
-
-- 🎹 Music Production: ???.
-- ♟️ Chess: Sharpening my mind with strategic gameplay.
-- 🛰️ Space Enthusiast: Following the latest trends in space exploration and tech.
 
 ---
 
