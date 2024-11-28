@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dhruva Singh</h1>
-<h3 align="center">Web Developer | Space Enthusiast 🚀 | Music Producer 🎶 | Chess Player ♟️</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36CFC9&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Music+Producer;Chess+Enthusiast+%E2%99%9F;Building+Quibble+%F0%9F%8E%B6;Space+Tech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruvasingh12&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophy" />
@@ -9,9 +11,9 @@
 
 ### 🚀 About Me
 
-- 🌟 I’m currently building **[Symphony](https://github.com/DhruvaSingh12/Symphony)** — a feature-rich music streaming platform.
+- 🌟 I’m currently building **Quibble**.
 - 🌱 Exploring **OpenCV, machine learning**, and diving deeper into **Node.js, MongoDB**, and advanced **React/Next.js** using **Typescript**.
-- 🤝 Open to collaborating on innovative projects like **Quibble** and beyond.
+- 🤝 Open to collaborating.
 - 💡 Passionate about chess, space tech, 3D printing in spacecraft part manufacturing, and artificial general intelligence.
 - 📫 Reach me at **singhdhruva45@gmail.com** for any collaboration or queries.
 
@@ -76,6 +78,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasingh12&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-<p align="center">✨ Made with passion and curiosity ✨</p>
+  ---
+
+  <p align="center">
+    <em>Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.</em>
+  </p>
+
