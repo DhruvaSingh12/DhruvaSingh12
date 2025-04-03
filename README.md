@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🌟 I’m currently building **Quibble**.
-- 🌱 Exploring **OpenCV, machine learning**, and diving deeper into **Node.js, MongoDB**, and advanced **React/Next.js** using **Typescript**.
+- 🌱 Exploring **OpenCV, machine learning**, and advanced **React/Next.js** using **Typescript**.
 - 🤝 Open to collaborating.
 - 💡 Passionate about chess, space tech, 3D printing in spacecraft part manufacturing, and artificial general intelligence.
 - 📫 Reach me at **singhdhruva45@gmail.com** for any collaboration or queries.
