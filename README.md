@@ -9,7 +9,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=DhruvaSingh12&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=DhruvaSingh12&color=red)
 
 ---
 
