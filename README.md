@@ -9,6 +9,10 @@
 
 ---
 
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DhruvaSingh12&count_bg=%2379C83D)
+
+---
+
 ### 🚀 About Me
 
 - 🌟 I’m currently building **Quibble**.
