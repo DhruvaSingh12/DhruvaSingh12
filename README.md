@@ -100,8 +100,12 @@
 
 
   ---
+  not said by me
 
   <p align="center">
     <em>Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.</em>
   </p>
 
+<p align="center">
+    <em>Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves. All things are bound together. All things connect.</em>
+ </p>
