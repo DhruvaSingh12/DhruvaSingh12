@@ -3,9 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36CFC9&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Music+Producer;Chess+Enthusiast+%E2%99%9F;Building+Quibble+%F0%9F%8E%B6;Space+Tech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvasingh12&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
+![trophy](https://quibblestats.vercel.app/api/trophy/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=gruvbox)
+
+![stats](https://quibblestats.vercel.app/api/stats/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark)
+
+![languages](https://quibblestats.vercel.app/api/languages/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark&layout=donut)
+
+![streak](https://quibblestats.vercel.app/api/streak/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark)
 
 ---
 
@@ -80,24 +84,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
 </p>
-
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvasingh12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvasingh12&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasingh12&theme=radical" alt="GitHub Streak" />
-</p>
-
 
   ---
    <p align="center">
