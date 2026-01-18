@@ -100,6 +100,10 @@
 
 
   ---
+   <p align="center">
+    <em>Desires often revolve around what one lacks, but is it truly a necessity?</em>
+  </p>
+  
   not said by me
 
   <p align="center">
