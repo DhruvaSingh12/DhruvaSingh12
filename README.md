@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36CFC9&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Music+Producer;Chess+Enthusiast+%E2%99%9F;Building+Quibble+%F0%9F%8E%B6;Space+Tech+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-![trophy](https://quibblestats.vercel.app/api/trophy/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=gruvbox)
+  ![trophy](https://quibblestats.vercel.app/api/trophy/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=gruvbox)
 
 ![stats](https://quibblestats.vercel.app/api/stats/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark)
 
 ![languages](https://quibblestats.vercel.app/api/languages/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark&layout=donut)
 
-![streak](https://quibblestats.vercel.app/api/streak/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark)
+  ![streak](https://quibblestats.vercel.app/api/streak/DhruvaSingh12?apiKey=grg_b7044ed49159246b5f3a4dbb7b663a9342f4c8638ebf3a41&theme=dark)
 
 ---
 
