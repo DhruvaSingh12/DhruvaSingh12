@@ -88,6 +88,7 @@
   ---
    <p align="center">
     <em>Desires often revolve around what one lacks, but is it truly a necessity?</em>
+     <em>Nuanced intentions reciprocate in shadows.</em>
   </p>
   
   not said by me
