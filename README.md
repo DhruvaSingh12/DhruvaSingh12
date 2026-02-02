@@ -92,6 +92,9 @@
   <p align="center">
      <em>Nuanced intentions reciprocate in shadows.</em>
   </p>
+  <p align="center">
+    <em>Clear communication, early validation, and structured adaptability beat heroic last-minute fixes every single time.</em>
+  </p>
   
   not said by me
 
