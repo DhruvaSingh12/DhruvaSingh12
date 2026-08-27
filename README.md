@@ -27,13 +27,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-dark.svg"
+      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-dark.svg?v=2"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-light.svg"
+      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-light.svg?v=2"
     />
-    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-dark.svg" />
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/stats-dark.svg?v=2" />
   </picture>
 </p>
 
