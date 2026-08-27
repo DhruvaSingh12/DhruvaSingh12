@@ -22,6 +22,7 @@
 </p>
 
 <!-- GitHub Stats -->
+
 <p align="center">
   <picture>
     <source
@@ -37,21 +38,31 @@
 </p>
 
 <!-- Featured Projects -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/projects-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/projects-light.svg"
-    />
-    <img alt="Featured Projects" src="https://raw.githubusercontent.com/DhruvaSingh12/DhruvaSingh12/github-stats/images/projects-dark.svg" />
-  </picture>
-</p>
+
+<pre>
+- [ Featured Projects ] --------------------------------------------------------------------
+
+> <b>Chess Application:</b> playstyle cloning, online & offline multiplayer
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/chess-app">chess-app</a>   |   <b>Live:</b> <a href="https://play.google.com/store/apps/details?id=com.dhruva12.chess">play.google.com/store/apps/details?id=com.dhruva12.chess</a>
+
+> <b>Quibble:</b> full-stack social media platform
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/quibble">quibble</a>     |   <b>Live:</b> <a href="https://quibbles.vercel.app">quibbles.vercel.app</a>
+
+> <b>Quivery:</b> music uploading & streaming platform
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/quivery">quivery</a>     |   <b>Live:</b> <a href="https://quivery.vercel.app">quivery.vercel.app</a>
+
+> <b>GDGSRM:</b> official technical club website
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/gdg">gdg</a>         |   <b>Live:</b> <a href="https://www.gdgsrm.in">www.gdgsrm.in</a>
+
+> <b>Khel 2026:</b> annual university sports fest website
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/khel">khel</a>        |   <b>Live:</b> <a href="https://www.srmkhel.live">www.srmkhel.live</a>
+
+> <b>VividGlyph:</b> interactive algorithm visualization
+  <b>GitHub:</b> <a href="https://github.com/DhruvaSingh12/vividglyph">vividglyph</a>  |   <b>Live:</b> <a href="https://vividglyph.vercel.app">vividglyph.vercel.app</a>
+</pre>
 
 <!-- Breakout Game -->
+
 <p align="center">
   <picture>
     <source
@@ -67,53 +78,3 @@
 </p>
 
 <div align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c" height="55" title="C" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" title="C++" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" title="Java" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" title="Python" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" title="JavaScript" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" title="TypeScript" style="margin:6px;" />
-
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" title="HTML5" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" title="CSS3" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" title="React" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" title="React Native" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="55" title="Next.js" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/expo/FFFFFF" height="55" title="Expo" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="55" title="Tailwind CSS" style="margin:6px;" />
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" title="Node.js" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/express/FFFFFF" height="55" title="Express.js" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/prisma/FFFFFF" height="55" title="Prisma" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="55" title="Socket.IO" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="55" title="FastAPI" style="margin:6px;" />
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" title="PostgreSQL" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" title="MongoDB" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="55" title="Supabase" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" title="Firebase" style="margin:6px;" />
-
-<!-- AI / ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" title="PyTorch" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="55" title="OpenCV" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/huggingface/FCC624" height="55" title="Hugging Face" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/roboflow/6706CE" height="55" title="Roboflow" style="margin:6px;" />
-
-<!-- Cloud / DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" title="Docker" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="55" title="Google Cloud" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="55" title="Vercel" style="margin:6px;" />
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" title="Git" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="55" title="GitHub" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" title="Linux" style="margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" title="VS Code" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="55" title="Postman" style="margin:6px;" />
-
-</div>

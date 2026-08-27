@@ -10,5 +10,8 @@
     "@types/node": "^26.4.0",
     "tsx": "^4.19.0",
     "typescript": "^5.5.0"
+  },
+  "dependencies": {
+    "jimp": "^1.6.1"
   }
 }
