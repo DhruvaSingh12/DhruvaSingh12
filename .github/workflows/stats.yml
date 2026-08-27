@@ -28,9 +28,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: cache
-          key: loc-cache-${{ github.repository_owner }}-${{ github.run_id }}
+          key: loc-cache-v2-${{ github.repository_owner }}-${{ github.run_id }}
           restore-keys: |
-            loc-cache-${{ github.repository_owner }}-
+            loc-cache-v2-${{ github.repository_owner }}-
 
       - name: Generate stats SVGs
         run: npx tsx src/index.ts
