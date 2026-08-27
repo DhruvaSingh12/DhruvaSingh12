@@ -1,0 +1,62 @@
+name: generate github stats svg
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # runs daily at 00:30 UTC (offset from breakout to avoid overlap)
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Restore LOC cache
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: loc-cache-${{ github.repository_owner }}-${{ github.run_id }}
+          restore-keys: |
+            loc-cache-${{ github.repository_owner }}-
+
+      - name: Generate stats SVGs
+        run: npx tsx src/index.ts
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/stats-images
+          cp output/stats-dark.svg /tmp/stats-images/
+          cp output/stats-light.svg /tmp/stats-images/
+          cp output/projects-dark.svg /tmp/stats-images/
+          cp output/projects-light.svg /tmp/stats-images/
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to github-stats branch
+        run: |
+          git checkout --orphan github-stats
+          git rm -rf .
+          mkdir images
+          mv /tmp/stats-images/* images/
+          git add images
+          git commit -m "chore: update GitHub stats SVGs" || echo "No changes to commit"
+          git push --force origin github-stats
