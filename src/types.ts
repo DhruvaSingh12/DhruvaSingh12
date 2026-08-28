@@ -37,7 +37,7 @@ export interface RepoNode {
 }
 
 export interface ReposData {
-  user: {
+  viewer: {
     repositories: {
       totalCount: number;
       edges: Array<{ node: RepoNode | null }>;

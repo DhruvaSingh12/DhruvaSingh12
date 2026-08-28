@@ -17,7 +17,7 @@ function cacheFilename(username: string): string {
   return join(CACHE_DIR, `${hashString(username)}.txt`);
 }
 
-/** Read the cache file; returns empty array if it doesn't exist. */
+// Read the cache file; returns empty array if it doesn't exist.
 export function readCache(username: string): CacheEntry[] {
   ensureCacheDir();
   const file = cacheFilename(username);
@@ -35,7 +35,7 @@ export function readCache(username: string): CacheEntry[] {
   });
 }
 
-/** Write cache entries back to disk. */
+// Write cache entries back to disk.
 export function writeCache(username: string, entries: CacheEntry[]): void {
   ensureCacheDir();
   const file = cacheFilename(username);

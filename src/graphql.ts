@@ -10,7 +10,7 @@ const HEADERS = {
   'User-Agent': 'github-stats-generator',
 };
 
-/** Tracks how many API calls each function makes. */
+// Tracks how many API calls each function makes.
 export const QUERY_COUNT: Record<string, number> = {};
 
 export function queryCount(id: string): void {

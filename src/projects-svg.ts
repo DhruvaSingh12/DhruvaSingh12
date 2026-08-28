@@ -42,7 +42,7 @@ const LIGHT: Theme = {
   linkColor: '#0969da',
 };
 
-/** Truncate text with ellipsis */
+// Truncate text with ellipsis
 function truncate(text: string, maxLen: number): string {
   return text.length > maxLen ? text.slice(0, maxLen - 1) + '…' : text;
 }

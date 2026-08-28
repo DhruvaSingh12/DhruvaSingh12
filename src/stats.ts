@@ -1,15 +1,8 @@
 import { graphql, queryCount } from './graphql.js';
 import { readCache, repoHash, writeCache } from './cache.js';
 import type {
-  CacheEntry,
-  CommitHistoryData,
-  ContributionsData,
-  PinnedRepoNode,
-  PinnedReposData,
-  RepoNode,
-  ReposData,
-  UserData,
-  UserStats,
+  CacheEntry, CommitHistoryData, ContributionsData, PinnedRepoNode, PinnedReposData,
+  RepoNode, ReposData, UserData, UserStats
 } from './types.js';
 
 const USER_NAME = process.env.USER_NAME ?? '';
@@ -96,8 +89,8 @@ async function fetchAllRepos(
 ): Promise<{ totalCount: number; repos: RepoNode[] }> {
   queryCount('graph_repos_stars');
   const data = await graphql<ReposData>(
-    `query($login: String!, $affiliations: [RepositoryAffiliation], $cursor: String) {
-      user(login: $login) {
+    `query($affiliations: [RepositoryAffiliation], $cursor: String) {
+      viewer {
         repositories(first: 100, after: $cursor, ownerAffiliations: $affiliations) {
           totalCount
           edges { node { nameWithOwner stargazers { totalCount } defaultBranchRef { target { ... on Commit { history { totalCount } } } } } }
@@ -105,14 +98,14 @@ async function fetchAllRepos(
         }
       }
     }`,
-    { login: USER_NAME, affiliations, cursor },
+    { affiliations, cursor },
   );
-  const edges = data.user.repositories.edges.filter((e) => e.node !== null);
+  const edges = data.viewer.repositories.edges.filter((e) => e.node !== null);
   const repos = [...acc, ...edges.map((e) => e.node!)];
-  if (data.user.repositories.pageInfo.hasNextPage) {
-    return fetchAllRepos(affiliations, data.user.repositories.pageInfo.endCursor, repos);
+  if (data.viewer.repositories.pageInfo.hasNextPage) {
+    return fetchAllRepos(affiliations, data.viewer.repositories.pageInfo.endCursor, repos);
   }
-  return { totalCount: data.user.repositories.totalCount, repos };
+  return { totalCount: data.viewer.repositories.totalCount, repos };
 }
 
 async function fetchRepoLoc(
